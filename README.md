@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rooproopali
-- 👀 I’m interested in SQL
-- 🌱 I’m currently learning QUERIES
-- 💞️ I’m looking to collaborate on SQL
+- 👀 I’m interested in Promt engineering
+- 🌱 I’m currently Promts queries
+- 💞️ I’m looking to collaborate on Promts
 - 📫 How to reach me ...
 
 <!---
